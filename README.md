@@ -1,0 +1,1 @@
+# WEB. Знакомство с flask-sqlalchemy
